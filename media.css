@@ -1,0 +1,31 @@
+@media(max-width:520px){
+    .blank-top{
+        max-width: 520px;
+       margin: 0 auto;
+        
+    }
+    
+    .blank-top img{
+        width: 80px;
+        
+    }
+    .container{
+        width: 520px;
+        margin: 0 ;
+    }
+    .blank__title_img{
+        width: 80px;
+        margin: 0 auto;
+    }
+    .blank-about__item_content{
+        font-size: 25px;
+    }
+    .box{
+        width: 520px;
+        margin: 0 auto;
+    }
+    .blank-text__img img{
+        width: 520px;
+    }
+    
+}
